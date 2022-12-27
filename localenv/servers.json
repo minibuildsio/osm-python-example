@@ -1,0 +1,13 @@
+{
+  "Servers": {
+    "1": {
+      "Name": "RomanRoadsDB",
+      "Group": "Servers",
+      "Host": "db",
+      "Port": 5432,
+      "Username": "postgres",
+      "MaintenanceDB": "postgres",
+      "SSLMode": "prefer"
+    }
+  }
+}
